@@ -2,7 +2,7 @@ import React from "react";
 
 const IncomeExpenseComponent = () => {
 	return (
-		<div class="inc-exp-container">
+		<div className="inc-exp-container">
 			<div>
 				<h4>Income</h4>
 				<p id="money-plus" className="money plus">
