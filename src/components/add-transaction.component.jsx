@@ -16,6 +16,7 @@ const AddTransactionComponent = () => {
 		};
 
 		addTransaction(newTransaction);
+		console.log(newTransaction);
 	};
 	return (
 		<div>
